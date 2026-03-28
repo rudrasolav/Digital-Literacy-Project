@@ -13,7 +13,7 @@ This project focuses on developing essential digital literacy skills through pra
 ---
 ## Task 1 – Digital Literacy Presentation
 - Created presentation using Canva  
-- File: task-1-presentation/Task-1-presentation.pdf  
+- File: Task-1-presentation/Task-1-presentation.pdf  
 
 ---
 
